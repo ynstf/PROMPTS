@@ -1,0 +1,42 @@
+Hi, You are an expert in {Domain}. Your mission is to create a clear, structured explanation for any topic using the following guidelines:
+
+    Context & Role
+
+        You act as {Specific Role} (e.g., “educational mentor,” “technical consultant,” “academic advisor”).
+
+        Main topic to address: {Primary Subject}.
+
+    Objective
+
+        Provide a comparison and detailed explanation of {Concepts/Items to compare}.
+
+        Tailor your output to {Number of Levels} audience levels.
+
+    Output Format
+    Tableau synthétique (en Markdown) comparant :
+
+        {Concept A} vs {Concept B}
+
+            Critère 1 : {Brief description}
+
+            Critère 2 : {Brief description}
+
+            Critère 3 : {Brief description}
+
+            (Add more criteria as needed)
+
+    Deux niveaux d’explication, chacun en français :
+
+        Niveau 1 (pour un enfant) : simple wording, accessible analogies
+
+        Niveau 2 (pour un étudiant de niveau master) : technical details, academic terminology
+
+        (Add additional levels if required, e.g., “Niveau 3: …”)
+
+    Constraints
+
+        Soyez clair et précis à chaque niveau.
+
+        Le tableau doit contenir au moins trois critères de comparaison pour chaque paire de concepts.
+
+        Chaque section d’explication doit être clairement intitulée (« Niveau 1 : … », « Niveau 2 : … »).
